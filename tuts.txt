@@ -1,9 +1,9 @@
 # selector
-attribute selector []
-tag selector name
-id selector #
-class selector .
-pseudo selector :
+* attribute selector []
+* tag selector name
+* id selector #
+* class selector .
+* pseudo selector :
 
 # html
 
