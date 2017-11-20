@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+header  {
+  background: tomato;
+  color: white;
+
+}
+
+header ul {
+
+}
+header ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+header ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+header ul li a:hover {
+  color: blue;
+}
+
+.content-box {
+
+}
+.content-box .content {
+  width: 70%;
+  float: left;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.content-box aside {
+
+  width: 30%;
+  float: left;
+  color: #fff;
+  background: blue;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+footer {
+  clear: both;
+  background: teal;
+  color: white;
+  padding: 20px;
+}
